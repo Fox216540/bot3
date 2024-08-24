@@ -6,7 +6,7 @@ from aiogram.types import ReplyKeyboardRemove, \
     InlineKeyboardMarkup, InlineKeyboardButton
 import sqlite3
 
-bot = Bot(token="7478024239:AAEO7_ATqZYBxIaPtCquJTtJvE-XhCPgME0")
+bot = Bot(token="")
 # Диспетчер
 dp = Dispatcher(bot,storage=MemoryStorage())
 
